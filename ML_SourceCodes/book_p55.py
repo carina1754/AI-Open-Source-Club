@@ -1,5 +1,4 @@
 import numpy as np
-from random import Random
 
 class Perceptron(object):
     """
@@ -17,8 +16,8 @@ class Perceptron(object):
         self.random_state=random_state
 
     def fit(self, X, y):
-        """training data learning"""
-        rgen= np.random.__RandomState_ctor
+        #training data learning
+        rgen=np.random.RandomState(self.random_state)
         self.w_=rgen.normal(loc=0.0, scale=0.01, size=1+X.shape[1])
         self.errors_=[]
 
@@ -34,8 +33,8 @@ class Perceptron(object):
 
 
     def net_input(self, X):
-            return np.dot(X, self.w_[1:])+self.w_[0]
+        return np.dot(X, self.w_[1:])+self.w_[0]
         
     def predict(self, X):
-            return np.where(self.net_input(X) >=0.0,1,-1)
+        return np.where(self.net_input(X) >=0.0,1,-1)
         
