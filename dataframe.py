@@ -16,4 +16,4 @@ for i in range(0,50):
         data += [[titles_html[i]['title'],0]]
 
     dataframe = pd.DataFrame(data,columns=['title', 'level'])
-    dataframe.to_csv("2.csv",header=False,index=False,encoding='utf-8')
+    dataframe.to_csv("sample_submission.csv",header=False,index=False,encoding='utf-8')
