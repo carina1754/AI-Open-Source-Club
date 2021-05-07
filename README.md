@@ -9,5 +9,6 @@ AI-Open-Source-Club for Yonsei Mirae Campus
 >[ 2021.03.31 ]   Lec3. How to Minimize Cost / Lab3  
 >[ 2021.04.01 ]   Lec4. Multi-Variable Linear Regression / Lab4  
 >[ 2021.04.08 ]   Lec5. Logistic Regression / Lab5  
->[ 2021.04.26 ]   Lec6. Softmax Regression_Lec Summary
->[ 2021.04.30 ]   LAB6. Sofmax Classifier
+>[ 2021.04.26 ]   Lec6. Softmax Regression_Lec Summary  
+>[ 2021.04.30 ]   LAB6. Sofmax Classifier  
+>[ 2021.05.07 ]   Lec7. Application and tips
