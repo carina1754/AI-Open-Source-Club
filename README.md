@@ -10,5 +10,9 @@ AI-Open-Source-Club for Yonsei Mirae Campus
 >[ 2021.04.01 ]   Lec4. Multi-Variable Linear Regression / Lab4  
 >[ 2021.04.08 ]   Lec5. Logistic Regression / Lab5  
 >[ 2021.04.26 ]   Lec6. Softmax Regression_Lec Summary  
+<<<<<<< HEAD
 >[ 2021.04.30 ]   LAB6. Sofmax Classifier  
 >[ 2021.05.07 ]   Lec7. Application and tips
+=======
+>[ 2021.04.30 ]   LAB6. Sofmax Classifier
+>>>>>>> bb69bc45935a48bce6ed72d8c5f795e66815dedb
