@@ -12,5 +12,5 @@ AI-Open-Source-Club for Yonsei Mirae Campus
 >[ 2021.04.26 ]   Lec6. Softmax Regression_Lec Summary  
 >[ 2021.04.30 ]   LAB6. Sofmax Classifier  
 >[ 2021.04.30 ]   LAB6. Sofmax Classifier  
->[ 2021.05.07 ]   Lec7. Application and tips
-
+>[ 2021.05.07 ]   Lec7. Application and tips  
+>[ 2021.05.11 ]   Lec7+. Data set, Learning, Sample
